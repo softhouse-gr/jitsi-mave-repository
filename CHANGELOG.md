@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.6.0-2] (14/02/2022)
+
+### Features
+
+- Swap places of toggle camera button with chat button in toolbar of videocall.
+- Add translation in chat button for when in bottom sheet.
+
 ## [3.6.0-1] (12/02/2022)
 
 ### Fixed

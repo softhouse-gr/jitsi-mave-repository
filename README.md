@@ -1,4 +1,4 @@
-# jitsi-maven-repository (v3.6.0-1)
+# jitsi-maven-repository (v3.6.0-2)
 
 ## Source information
 
