@@ -2,7 +2,7 @@
 
 ## [3.6.0-2] (14/02/2022)
 
-### Fixed
+### Features
 
 - Swap places of toggle camera button with chat button in toolbar of videocall.
 
